@@ -76,7 +76,7 @@ export default function Products() {
                   />
                   <CardContent>
                     <Typography variant="body1">
-                      {product.name} - ${product.cost}
+                      MAGHAM - MS - {product.name} - ${product.cost}
                     </Typography>
                   </CardContent>
                 </Card>
