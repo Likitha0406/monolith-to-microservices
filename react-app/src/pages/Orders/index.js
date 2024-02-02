@@ -91,7 +91,7 @@ export default function Orders() {
                   }}
                 >
                   <TableCell component="th" scope="row">
-                    {order.id}
+                    {`${order.id}-Magham-MICROSERVICE`}
                   </TableCell>
                   <TableCell>{order.date}</TableCell>
                   <TableCell>
